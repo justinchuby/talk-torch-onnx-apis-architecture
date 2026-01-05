@@ -8,13 +8,13 @@
         "value": 2.384185791015625e-07
       },
       "node_mul": {
-        "value": 2.384185791015625e-07
+        "value": 4.76837158203125e-07
       },
       "[value] scaled_dot_product_attention": {
-        "value": 9.5367431640625e-07
+        "value": 1.9073486328125e-06
       },
       "node_scaled_dot_product_attention": {
-        "value": 9.5367431640625e-07
+        "value": 1.9073486328125e-06
       }
     },
     "thresholds": [

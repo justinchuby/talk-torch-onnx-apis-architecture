@@ -2,19 +2,19 @@
   "main_graph": {
     "results": {
       "node_sin": {
-        "value": 1.1394024568289751e-07
+        "value": 1.1110393671742713e-07
       },
       "node_add": {
-        "value": 4.454574082046747e-06
+        "value": 1.0556354027357884e-05
       },
       "node_mul": {
-        "value": 4.420350705913734e-06
+        "value": 1.0608530828903895e-05
       },
       "[value] scaled_dot_product_attention": {
-        "value": 7.564587122033117e-06
+        "value": 4.598780287778936e-05
       },
       "node_scaled_dot_product_attention": {
-        "value": 7.564587122033117e-06
+        "value": 4.598780287778936e-05
       }
     },
     "thresholds": [
