@@ -1,0 +1,52 @@
+{
+  "main_graph": {
+    "results": {
+      "node_sin": {
+        "value": 1.1110393671742713e-07
+      },
+      "node_add": {
+        "value": 1.0556354027357884e-05
+      },
+      "node_mul": {
+        "value": 1.0608530828903895e-05
+      },
+      "[value] scaled_dot_product_attention": {
+        "value": 4.598780287778936e-05
+      },
+      "node_scaled_dot_product_attention": {
+        "value": 4.598780287778936e-05
+      }
+    },
+    "thresholds": [
+      {
+        "value": 1e-05,
+        "bgColor": "#388e3c"
+      },
+      {
+        "value": 0.0001,
+        "bgColor": "#8bc34a"
+      },
+      {
+        "value": 0.001,
+        "bgColor": "#c8e6c9"
+      },
+      {
+        "value": 0.01,
+        "bgColor": "#ffa000"
+      },
+      {
+        "value": 1,
+        "bgColor": "#ff5722"
+      },
+      {
+        "value": 100,
+        "bgColor": "#d32f2f"
+      }
+    ],
+    "gradient": [],
+    "hideInAggregatedStatsTable": false,
+    "hideInChildrenStatsTable": false,
+    "showExpandedSummaryOnGroupNode": false,
+    "showLabelCountColumnsInChildrenStatsTable": false
+  }
+}
